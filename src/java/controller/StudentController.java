@@ -10,6 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 public class StudentController extends HttpServlet{
     @Override
     public void doPost(HttpServletRequest request, HttpServletResponse response) {
-    
+        System.out.println("hung");
+        System.out.println("nguyenngochung");
+        System.out.println("nguyenvana");
     }
 }
